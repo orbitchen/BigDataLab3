@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/asm-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/avro-1.7.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/commons-compress-1.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/guice-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/guice-servlet-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/hadoop-annotations-2.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/javax.inject-1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/jersey-core-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/jersey-server-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/junit-4.11.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/leveldbjni-all-1.8.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/netty-3.6.2.Final.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/paranamer-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/snappy-java-1.0.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/lib/xz-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/common/hadoop-common-2.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
